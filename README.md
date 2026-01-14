@@ -9,11 +9,12 @@
 The mathematical and statistical backbone of ML/AI. This is for the engineer who wants to understand the "why" behind the code.
 
 ### Core Topics
-- âœ… **Linear Algebra**: Vectors, Matrices, SVD, Eigenvalues
-- âœ… **Probability**: Distributions, Bayes Theorem, Entropy, KL Divergence
-- âœ… **Statistics**: Hypothesis Testing, A/B Testing, Confidence Intervals
-- âœ… **Optimization**: Gradient Descent, Convex Optimization, Loss Surfaces
-- âœ… **Classical ML**: Supervised, Unsupervised, and Semi-supervised learning
+- ✅ **[01. Mathematics for ML](01-Mathematics/README.md)**: Linear Algebra, Calculus, Statistics.
+- ✅ **[02. Classical ML Algorithms](02-Classical-ML-Algorithms/README.md)**: Regression, Trees, Clustering.
+- ✅ **[03. Feature Engineering](03-Feature-Engineering/README.md)**: Encoding, Scaling, PCA.
+- ✅ **[04. Model Evaluation](04-Model-Evaluation/README.md)**: Confusion Matrix, Cross-Val, F1-Score.
+- ✅ **[05. ML Projects](05-Projects/README.md)**: Titanic, House Pricing, Segmentation.
+- ✅ **[06. Interview Prep](06-Interview-Prep/README.md)**: CLT, Bias-Variance, P-values.
 
 ---
 
